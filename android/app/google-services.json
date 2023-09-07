@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29464535100",
+    "firebase_url": "https://iot-feeder-f8e4f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot-feeder-f8e4f",
+    "storage_bucket": "iot-feeder-f8e4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29464535100:android:5e872110b8acce1c40e339",
+        "android_client_info": {
+          "package_name": "com.example.smart_feeder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29464535100-pkl53820ecbghrq434c1inq95cmvahb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCryKVu7MiUTRKuSkrLWuXjdXA1Vzs2-dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29464535100-pkl53820ecbghrq434c1inq95cmvahb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

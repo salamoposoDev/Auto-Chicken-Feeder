@@ -80,7 +80,6 @@ class DashboardScreen extends StatelessWidget {
                       builder: (context, dateTime) {
                         final jam = DateFormat.Hm().format(dateTime);
                         final message = checkTimeOfDay(jam);
-
                         return Row(
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
